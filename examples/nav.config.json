@@ -1,0 +1,114 @@
+{
+  "开发指南": [
+    {
+      "name": "giud",
+      "path": "/giud",
+      "desc": "介绍"
+    },
+    {
+      "name": "install",
+      "path": "/install",
+      "desc": "安装"
+    },
+    {
+      "name": "start",
+      "path": "/start",
+      "desc": "快速开始"
+    },
+    {
+      "name": "index",
+      "path": "/",
+      "type": "pages"
+    },
+    {
+      "name": "formdemo",
+      "path": "/formdemo",
+      "type": "pages",
+      "desc": "表单示例"
+    },
+    {
+      "name": "logs",
+      "path": "/logs",
+      "desc": "更新日志"
+    }
+  ],
+  "组件": [
+    {
+      "desc": "base",
+      "path": "/component",
+      "items": [
+        {
+          "desc": "Table 表格",
+          "name": "table",
+          "path": "/table"
+        },
+        {
+          "desc": "Pagination 分页",
+          "name": "pagination",
+          "path": "/pagination"
+        },
+        {
+          "desc": "NumberRange 数字区间",
+          "name": "numberRange",
+          "path": "/numberRange"
+        },
+        {
+          "desc": "Copy 复制",
+          "name": "copy",
+          "path": "/copy"
+        },
+        {
+          "desc": "Show 划过",
+          "name": "show",
+          "path": "/show"
+        },
+        {
+          "desc": "Grid 网格布局",
+          "name": "grid",
+          "path": "/grid"
+        }
+      ]
+    },
+    {
+      "desc": "表单组件",
+      "path": "/form",
+      "items": [
+        {
+          "desc": "Form 表单",
+          "name": "form/index",
+          "path": "/form/index"
+        },
+        {
+          "desc": "Input 输入框",
+          "name": "form/input",
+          "path": "/form/input"
+        },
+        {
+          "desc": "Select 输入框",
+          "name": "form/select",
+          "path": "/form/select"
+        },
+        {
+          "desc": "Date 日期选择框",
+          "name": "form/date",
+          "path": "/form/date"
+        },
+        {
+          "desc": "Time 时间选择框",
+          "name": "form/time",
+          "path": "/form/time"
+        },
+        {
+          "desc": "Checkbox 多选框",
+          "name": "form/checkbox",
+          "path": "/form/checkbox"
+        },
+        {
+          "desc": "Switch 开关",
+          "name": "form/switch",
+          "path": "/form/switch"
+        }
+      ]
+    }
+  ]
+}
